@@ -49,4 +49,4 @@ optional arguments:
 
 `--opacity参数，指定透明度，默认为0.15，数值越小越透明。`
 
-![](https://cdn.jsdelivr.net/gh/yanyuwangluo/shuiyin@main/input/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20210905021931.png)
+![](https://cdn.jsdelivr.net/gh/yanyuwangluo/shuiyin@main/output/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20210905021931.png)
